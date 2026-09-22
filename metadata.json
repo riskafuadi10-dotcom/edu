@@ -1,0 +1,6 @@
+{
+  "name": "EDUVERSE - Petualangan Belajar",
+  "description": "Website game petualangan edukatif interaktif untuk siswa SD/MI dengan petualangan Hutan Pengetahuan dan misi sains energi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
